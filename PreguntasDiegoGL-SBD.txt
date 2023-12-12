@@ -1,0 +1,26 @@
+Que tipo de datos son utilizados en vídeo e imaxe
+	-Estructurados
+	+-Non estructurados
+	-Semi-Estrcturados
+	-B y C
+
+____ es un protocolo estándar que se creó originalmente para posibilitar la comunicación entre las aplicaciones que se diseñaban con diferentes lenguajes y en distintas plataformas
+
+	+-SOAP
+	-REST
+
+Que devuelve la siguiente línea de código type(df[['A','B']])
+	-Series
+	-Object	
+	+-DataFrame
+	-Object, Object
+
+Cual de los dos pide un Index para devolver una fila o columna en pandas
+	+-Iloc
+	-Loc
+
+Un XML es:
+	-Estructurado
+	-No Estructurado
+	+-Semi-Estructurado
+
