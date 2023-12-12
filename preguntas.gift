@@ -1,0 +1,21 @@
+De los siguientes tipos de datos, ¿cuál se puede considerar estructurados?{
+~ archivo JSON
+= tabla de excel
+~ correo electrónico
+~ Imágenes por satélite
+}
+
+¿En VirtualBox que tipo de interface de red nos permite configurar un router explícito?
+{
+~ NAT
+= red NAT
+~ Adaptador Puente
+~ Red interna
+}
+
+¿Qué tipo de dato es un archivo .xml?{
+~ Estructurado
+~ No estructurado
+= Semi-estructurado
+
+}
