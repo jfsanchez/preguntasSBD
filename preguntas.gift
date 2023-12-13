@@ -17,5 +17,13 @@ De los siguientes tipos de datos, ¿cuál se puede considerar estructurados?{
 ~ Estructurado
 ~ No estructurado
 = Semi-estructurado
-
 }
+
+¿Qué magia de ipython nos muestra el código y a continuación lo ejecuta?{
+~ %run
+~ %pycat
+= %load
+~ %save
+}
+
+
