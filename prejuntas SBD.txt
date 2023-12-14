@@ -1,0 +1,30 @@
+¿Qué es Miniconda?
+
+~ Un lenguaje de programación.
+= Un entorno de desarrollo para Python.
+~ Una distribución de Linux.
+~ Un gestor de paquetes para Java.
+
+
+¿Cuál es la diferencia entre Ubuntu y Linux?
+
+~ Ubuntu es una versión de Linux.
+~ Linux es un sistema operativo, mientras que Ubuntu es un kernel.
+~ No hay diferencia, son términos intercambiables.
+= Ubuntu es una distribución específica de Linux.
+
+
+¿Qué hace %pycat en Jupyter Notebook?
+
+= Muestra el contenido de un archivo de Python.
+~ Ejecuta una celda de código en Python.
+~ Genera un gráfico en el cuaderno.
+~ Instala un paquete de Python.
+
+
+¿Qué hace %env en Jupyter Notebook?
+
+= Define variables de entorno para el cuaderno.
+~ Ejecuta comandos del sistema operativo.
+~ Enciende el modo de visualización de variables.
+~ Desinstala un paquete de Python.
