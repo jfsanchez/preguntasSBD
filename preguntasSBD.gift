@@ -1,0 +1,23 @@
+Las bases de datos relacionales se consideran:{
+=datos estructurados
+~datos semiestructurados
+~datos no estructurados
+}
+
+Una imagen con una tabla sql es un dato no estructurado{
+=verdadero
+~Falso
+}
+
+¿Se pueden ejecutar scripts externos mediante %run en un notebook de jupyter-lab?{
+=verdadero
+~Falso
+}
+
+Para borrar el estado de la memoria de un notebook de jupyter-lab se utiliza la magia _____ {=%reset}
+
+Los objetos de tipo dataframe y de tipo series se diferencian en que las series son paneles bidimiensionales{
+=verdadero
+~Falso
+~Depende del caso
+}
