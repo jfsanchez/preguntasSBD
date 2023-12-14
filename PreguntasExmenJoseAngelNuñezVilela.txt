@@ -1,0 +1,27 @@
+1-Como unirías ruta1 y ruta 2 para hacer una ruta
+	a-os.path.join(ruta1,ruta2)
+	b-os.path.unir(ruta1,ruta2)
+	c-os.unir.path(ruta1,ruta2)
+2-Como agruparías en los datos de un dataframe por Grupo
+	a-df.groupby(['Grupo'])
+	b-df.agrupar(['Grupo'])
+	c-df.grupoby(['Grupo'])
+3-Como sacarías los datos de un dataframe que tengan como valor de id=1
+	a-df.[df.id=="1"]
+	b-df.[id="1"]
+	c-df.[id=="1"]
+4-Que tipos de datos existen segun su estructura
+	a-Estructurados,non estructurados,semi-estructurados
+	b-Con estructura,sin estructura
+	c-Complejos,Simples
+
+5-Que significa Business Inteligence
+	a-combinacion análisis de negocios, minería, visualización, herramientas e infraestructura de datos,	además de prácticas recomendadas para ayudar a las empresas a tomar decisiones basadas en los datos.
+	b-Empresa inteligente
+	c-Un empresario listo.
+6-Elige el dato que pertenecería a datos estructurados
+	a-Hoja de calculo
+	b-XML
+	c-imagen	
+
+	
