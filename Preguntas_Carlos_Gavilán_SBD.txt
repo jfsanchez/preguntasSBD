@@ -1,0 +1,36 @@
+¿Cuál es la descripción precisa de los datos estructurados, semi-estructurados y no estructurados?{
+~Estructurados: Formato tabular en bases de datos relacionales. Semi-estructurados: Organizados con etiquetas como XML y JSON. No estructurados: Datos complejos sin esquema definido.
+=Estructurados: Presentes en bases de datos relacionales con formato tabular. Semi-estructurados: Organizados con etiquetas como XML y JSON. No estructurados: Datos complejos sin un formato predefinido.
+~Estructurados: Mayormente archivos de texto. Semi-estructurados: Datos de redes sociales y meteorológicos. No estructurados: Principalmente archivos de hojas de cálculo y presentaciones.
+~Estructurados: Almacenados en bases de datos NoSQL. Semi-estructurados: Esquema predefinido en tablas y columnas. No estructurados: Datos generados por personas almacenados en Datalakes.
+}
+
+
+¿Cómo se selecciona una columna específica en un DataFrame de Pandas?{
+~select()
+~get_column()
+~column()
+=df['columna']
+}
+
+
+¿ Como se muestra las últimas filas do dataframe?{
+=df.tail()
+~df.shape()
+~df.head
+}
+
+¿Qué método se utiliza para calcular estadísticas de un DataFrame en Pandas?{
+=describe()
+~stats()
+~summary()
+~statistics()
+}
+
+
+Como seleccionar varias columnas {
+~df['Codigo', 'Nome']
+=df[['Código','Nome']]
+~df['Codigo'and 'Nome']
+~df[['Código'and'Nome']]
+}
