@@ -1,0 +1,30 @@
+¿Cuál de las siguientes opciones se utiliza para importar la biblioteca pandas en Python?
+ a) import pandas
+ b) import pandas as pd 
+c) from pandas import *
+ d) Todas las anteriores+++
+
+¿Cómo se crea un DataFrame vacío en pandas?
+a) pd.DataFrame() +++
+b) pd.empty() 
+c) pd.DataFrame.empty() 
+d) pd.empty.DataFrame()
+
+¿Qué función se utiliza para leer un archivo CSV en pandas? 
+a) pd.read_csv() +++
+b) pd.csv_leer() 
+c) pd.read() 
+d) pd.csv()
+
+
+¿Cómo se selecciona una columna de un DataFrame en pandas? 
+a) df.column_name 
+b) df[‘column_name’] 
+c) df.loc[‘column_name’] 
+d) a y b +++
+
+¿Cómo se elimina una columna de un DataFrame en pandas? 
+a) df.drop(‘column_name’) +++
+b) df.remove(‘column_name’) 
+c) df.delete(‘column_name’) 
+d) Ninguna de las anteriores
